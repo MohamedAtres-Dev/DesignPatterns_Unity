@@ -1,0 +1,11 @@
+Design Patterns to implement
+
+1- Factory ✔
+2- Command ✔
+3- Observer
+4- FlyWeight
+5- Singlton
+6- State
+7- Strategy
+8- Prototype
+9- ObjectPool with Factory
