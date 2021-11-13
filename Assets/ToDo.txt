@@ -6,6 +6,6 @@ Design Patterns to implement
 4- FlyWeight		"Structural"
 5- Singlton		"Creational"
 6- State		"behavioral"
-7- Strategy		" behavioral " "Minimizing the duplication code and decoupling classes behaviors are defined as seprete interfaces - composition over inheritance"
+7- Strategy	✔	" behavioral " "Minimizing the duplication code and decoupling classes behaviors are defined as seprete interfaces - composition over inheritance"
 8- Prototype		"Creational"
 9- ObjectPool with Factory	"Creational"
