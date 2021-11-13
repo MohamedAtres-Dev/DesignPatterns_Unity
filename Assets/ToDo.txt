@@ -1,11 +1,11 @@
 Design Patterns to implement
 
-1- Factory ✔
-2- Command ✔
-3- Observer
-4- FlyWeight
-5- Singlton
-6- State
-7- Strategy
-8- Prototype
-9- ObjectPool with Factory
+1- Factory ✔  "Creational"
+2- Command ✔	"behavioral"
+3- Observer ✔	"behavioral"
+4- FlyWeight		"Structural"
+5- Singlton		"Creational"
+6- State		"behavioral"
+7- Strategy		" behavioral " "Minimizing the duplication code and decoupling classes behaviors are defined as seprete interfaces - composition over inheritance"
+8- Prototype		"Creational"
+9- ObjectPool with Factory	"Creational"
